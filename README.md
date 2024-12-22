@@ -1,15 +1,4 @@
-## Hi there 👋
-
-<!--
-**piyush1999/piyush1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 # 💫 About Me:
-- 🔭 Android Development
-- 🌱 Koltin and jetpack compose
-- 👯 open sorce android library
-
-
 Android Development<br>more on jetpack compose
 
 
